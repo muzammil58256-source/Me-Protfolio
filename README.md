@@ -1,44 +1,42 @@
 
-# 🚀 Muzammil Riaz — Personal Portfolio
+# 🌐 Muzammil Riaz - Personal Portfolio
 
-A modern, responsive and premium personal portfolio website for **Muzammil Riaz**, a Sales & Customer Service Professional based in Karachi, Pakistan.
+Welcome to my personal portfolio website! This portfolio showcases my professional experience, skills, education, and contact information.
 
-The portfolio showcases professional experience, skills, educational background and contact information with an elegant dark theme.
+## 🚀 Live Website
 
-## 🌐 About the Project
+**Visit My Portfolio:**  
+👉 https://muzammil58256-source.github.io/Me-Protfolio/
 
-This portfolio is designed to create a strong professional online presence and help recruiters and potential employers explore my professional background.
+## 👨‍💻 About Me
+
+I am Muzammil Riaz, a BBA student with professional experience in international sales, customer service, and lead generation. I am passionate about learning new skills and growing professionally.
 
 ## ✨ Features
 
-- Modern and premium dark UI design
-- Fully responsive layout
-- Fixed glass-effect navigation bar
-- Interactive mobile navigation menu
-- Professional hero section
-- Animated gradient typography
-- Profile information card
+- Modern and attractive dark theme
+- Fully responsive design
+- Fixed navigation bar
+- Hero section with personal introduction
 - About Me section
-- Professional work experience timeline
-- Skills and expertise section
-- Education cards
-- Contact section with clickable links
-- Download CV functionality
+- Work Experience section
+- Skills section
+- Education details
+- Contact information
+- CV download option
 - Smooth scrolling navigation
-- Active navigation highlighting
-- Hover animations and transitions
+- Mobile-friendly layout
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- Google Fonts
 
 ## 📂 Project Structure
 
 ```text
-Muzammil-Portfolio/
+Me-Protfolio/
 │
 ├── index.html
 ├── style.css
@@ -46,84 +44,41 @@ Muzammil-Portfolio/
 └── README.md
 ```
 
-## 🚀 Getting Started
+## 💼 Work Experience
 
-Follow these steps to run the project locally.
+- **MB Communication** — March 2025 to July 2026
+- **Digi Tel Marketing Solution** — September 2024 to February 2025
+- **Hello International** — March 2023 to July 2024
+- **Dial Source** — January 2022 to February 2023
 
-### 1. Clone the Repository
+## 🎓 Education
 
-```bash
-git clone https://github.com/your-username/your-repository.git
-```
+- **BBA** — Iqra University
+- **Intermediate (Pre-Engineering)** — D.J. Sindh Government Science College
+- **Matric (Science)** — Prince Aly Boys Secondary School, Malir City
 
-### 2. Open the Project Folder
+## 📞 Contact Information
 
-```bash
-cd Muzammil-Portfolio
-```
+- **Name:** Muzammil Riaz
+- **Location:** Karachi, Pakistan
+- **Phone:** 0318-1163892
+- **Alternate Phone:** 0336-3816636
+- **Email:** syedmuzammilriaz123@gmail.com
 
-### 3. Run the Website
+## 🌍 Deployment
 
-Open `index.html` in your browser.
+This portfolio is hosted on **GitHub Pages**.
 
-You can also use the Live Server extension in Visual Studio Code.
+Live URL:  
+https://muzammil58256-source.github.io/Me-Protfolio/
 
-## 🎨 Design & Theme
+## 📌 Future Improvements
 
-The portfolio uses a premium dark theme with modern accent colors.
-
-- Background: Midnight Navy
-- Primary Accent: Electric Blue
-- Secondary Accent: Teal
-- Highlight: Orange
-- Typography: Outfit & DM Sans
-
-## 📱 Responsive Design
-
-The website is optimized for:
-
-- Desktop
-- Laptop
-- Tablet
-- Mobile Devices
-
-## 📄 CV Download
-
-The portfolio includes a Download CV button.
-
-Place your resume inside the project folder and name it:
-
-```text
-cv.pdf
-```
-
-## 📬 Contact Information
-
-**Muzammil Riaz**
-
-- Profession: Sales & Customer Service Professional
-- Location: Karachi, Pakistan
-- Phone: 0318-1163892
-- Alternate Phone: 0336-3816636
-- Email: syedmuzammilriaz123@gmail.com
-
-## 🔮 Future Improvements
-
-- Add professional profile picture
-- Add certifications and achievements
-- Add LinkedIn integration
-- Add project showcase section
-- Add contact form with backend functionality
-- Deploy portfolio online
-
-## 👨‍💻 Author
-
-**Muzammil Riaz**
-
-Sales & Customer Service Professional
+- Add more projects
+- Improve animations and transitions
+- Add a working contact form
+- Keep skills and experience updated
 
 ---
 
-⭐ If you like this project, consider giving it a star!
-
-© 2026 Muzammil Riaz. All Rights Reserved.
+⭐ Thank you for visiting my portfolio!
